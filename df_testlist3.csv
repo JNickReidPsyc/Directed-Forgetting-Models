@@ -1,0 +1,145 @@
+category,item,cue,presented,corrAns
+metal,STEEL,R,old,1
+metal,IRON,R,old,1
+metal,SILVER,R,old,1
+metal,COPPER,R,old,1
+metal,BRONZE,R,old,1
+metal,ALUMINUM,R,old,1
+metal,GOLD,R,new,2
+metal,TITANIUM,R,new,2
+metal,LEAD,R,new,2
+military title,LIEUTENANT,R,old,1
+military title,PRIVATE,R,old,1
+military title,OFFICER,R,old,1
+military title,COMMANDER,R,old,1
+military title,CAPTAIN,R,old,1
+military title,CADET,R,old,1
+military title,COLONEL,R,new,2
+military title,SOLDIER,R,new,2
+military title,MAJOR,R,new,2
+type of fabric,COTTON,R,old,1
+type of fabric,WOOL,R,old,1
+type of fabric,DENIM,R,old,1
+type of fabric,CASHMERE,R,old,1
+type of fabric,SUEDE,R,old,1
+type of fabric,NYLON,R,old,1
+type of fabric,SILK,R,new,2
+type of fabric,VELVET,R,new,2
+type of fabric,POLYESTER,R,new,2
+fruit,ORANGE,R,old,1
+fruit,PEACH,R,old,1
+fruit,RASPBERRY,R,old,1
+fruit,CHERRY,R,old,1
+fruit,CANTALOUPE,R,old,1
+fruit,KIWI,R,old,1
+fruit,APPLE,R,new,2
+fruit,STRAWBERRY,R,new,2
+fruit,BANANA,R,new,2
+natural earth formation,MOUNTAIN,R,old,1
+natural earth formation,OCEAN,R,old,1
+natural earth formation,VOLCANO,R,old,1
+natural earth formation,CLIFF,R,old,1
+natural earth formation,BEACH,R,old,1
+natural earth formation,CANYON,R,old,1
+natural earth formation,HILL,R,new,2
+natural earth formation,RIVER,R,new,2
+natural earth formation,DESERT,R,new,2
+weather phenomenon,TORNADO,R,old,1
+weather phenomenon,RAIN,R,old,1
+weather phenomenon,SNOW,R,old,1
+weather phenomenon,EARTHQUAKE,R,old,1
+weather phenomenon,DROUGHT,R,old,1
+weather phenomenon,SLEET,R,old,1
+weather phenomenon,HURRICANE,R,new,2
+weather phenomenon,HAIL,R,new,2
+weather phenomenon,THUNDER,R,new,2
+article of clothing,SHIRT,F,old,1
+article of clothing,PANTS,F,old,1
+article of clothing,SKIRT,F,old,1
+article of clothing,SOCKS,F,old,1
+article of clothing,SWEATER,F,old,1
+article of clothing,COAT,F,old,1
+article of clothing,SHORTS,F,new,2
+article of clothing,DRESS,F,new,2
+article of clothing,BLOUSE,F,new,2
+musical instrument,PIANO,F,old,1
+musical instrument,VIOLIN,F,old,1
+musical instrument,GUITAR,F,old,1
+musical instrument,BANJO,F,old,1
+musical instrument,TRUMPET,F,old,1
+musical instrument,SAXOPHONE,F,old,1
+musical instrument,DRUMS,F,new,2
+musical instrument,FLUTE,F,new,2
+musical instrument,TUBA,F,new,2
+vegetable,CARROT,F,old,1
+vegetable,CAULIFLOWER,F,old,1
+vegetable,SPINACH,F,old,1
+vegetable,ZUCCHINI,F,old,1
+vegetable,CORN,F,old,1
+vegetable,CELERY,F,old,1
+vegetable,BROCCOLI,F,new,2
+vegetable,POTATO,F,new,2
+vegetable,ASPARAGUS,F,new,2
+insect,FLY,F,old,1
+insect,ANT,F,old,1
+insect,MOTH,F,old,1
+insect,GNAT,F,old,1
+insect,CENTIPEDE,F,old,1
+insect,HORNET,F,old,1
+insect,SPIDER,F,new,2
+insect,BEE,F,new,2
+insect,MOSQUITO,F,new,2
+fish,TROUT,F,old,1
+fish,HALIBUT,F,old,1
+fish,PERCH,F,old,1
+fish,CATFISH,F,old,1
+fish,TUNA,F,old,1
+fish,COD,F,old,1
+fish,SALMON,F,new,2
+fish,GOLDFISH,F,new,2
+fish,SHARK,F,new,2
+state,TEXAS,F,old,1
+state,VERMONT,F,old,1
+state,LOUISIANA,F,old,1
+state,MICHIGAN,F,old,1
+state,IOWA,F,old,1
+state,FLORIDA,F,old,1
+state,WISCONSIN,F,new,2
+state,CONNECTICUT,F,new,2
+state,MISSISSIPPI,F,new,2
+precious stone,EMERALD,New,new,2
+precious stone,SAPPHIRE,New,new,2
+precious stone,AMETHYST,New,new,2
+article of furniture,COUCH,New,new,2
+article of furniture,BED,New,new,2
+article of furniture,CHAIR,New,new,2
+carpenter tool,HAMMER,New,new,2
+carpenter tool,SCREWDRIVER,New,new,2
+carpenter tool,WRENCH,New,new,2
+member of clergy,PRIEST,New,new,2
+member of clergy,NUN,New,new,2
+member of clergy,MONK,New,new,2
+type of fuel,GAS,New,new,2
+type of fuel,DIESEL,New,new,2
+type of fuel,OIL,New,new,2
+chemical element,OXYGEN,New,new,2
+chemical element,HYDROGEN,New,new,2
+chemical element,SODIUM,New,new,2
+bird,EAGLE,New,new,2
+bird,HUMMINGBIRD,New,new,2
+bird,BLUEJAY,New,new,2
+nonalcoholic beverage,JUICE,New,new,2
+nonalcoholic beverage,MILK,New,new,2
+nonalcoholic beverage,WATER,New,new,2
+type of dance,BALLET,New,new,2
+type of dance,TANGO,New,new,2
+type of dance,BALLROOM,New,new,2
+footware,SANDALS,New,new,2
+footware,BOOTS,New,new,2
+footware,MOCCASINS,New,new,2
+type of boat,YACHT,New,new,2
+type of boat,KAYAK,New,new,2
+type of boat,CANOE,New,new,2
+football position,QUARTERBACK,New,new,2
+football position,LINEMAN,New,new,2
+football position,RECEIVER,New,new,2

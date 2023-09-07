@@ -1,0 +1,145 @@
+category,item,cue,presented,corrAns
+precious stone,EMERALD,F,old,1
+precious stone,SAPPHIRE,F,old,1
+precious stone,AMETHYST,F,old,1
+precious stone,RUBY,F,old,1
+precious stone,PEARL,F,old,1
+precious stone,TURQUOISE,F,old,1
+precious stone,GEMSTONE,F,new,2
+precious stone,TOPAZ,F,new,2
+precious stone,QUARTZ,F,new,2
+article of furniture,COUCH,F,old,1
+article of furniture,BED,F,old,1
+article of furniture,CHAIR,F,old,1
+article of furniture,LOVESEAT,F,old,1
+article of furniture,ARMOIRE,F,old,1
+article of furniture,OTTOMAN,F,old,1
+article of furniture,TABLE,F,new,2
+article of furniture,STOOL,F,new,2
+article of furniture,SOFA,F,new,2
+carpenter tool,HAMMER,F,old,1
+carpenter tool,SCREWDRIVER,F,old,1
+carpenter tool,WRENCH,F,old,1
+carpenter tool,DRILL,F,old,1
+carpenter tool,SAW,F,old,1
+carpenter tool,PLIERS,F,old,1
+carpenter tool,SCREW,F,new,2
+carpenter tool,SANDER,F,new,2
+carpenter tool,NAIL,F,new,2
+member of clergy,PRIEST,F,old,1
+member of clergy,NUN,F,old,1
+member of clergy,MONK,F,old,1
+member of clergy,BISHOP,F,old,1
+member of clergy,PREACHER,F,old,1
+member of clergy,DEACON,F,old,1
+member of clergy,POPE,F,new,2
+member of clergy,ARCHBISHOP,F,new,2
+member of clergy,PASTOR,F,new,2
+type of fuel,GAS,F,old,1
+type of fuel,DIESEL,F,old,1
+type of fuel,OIL,F,old,1
+type of fuel,SOLAR,F,old,1
+type of fuel,COAL,F,old,1
+type of fuel,KEROSENE,F,old,1
+type of fuel,PETROLEUM,F,new,2
+type of fuel,ELECTRIC,F,new,2
+type of fuel,PROPANE,F,new,2
+chemical element,OXYGEN,F,old,1
+chemical element,HYDROGEN,F,old,1
+chemical element,SODIUM,F,old,1
+chemical element,POTASSIUM,F,old,1
+chemical element,ARGON,F,old,1
+chemical element,CALCIUM,F,old,1
+chemical element,LITHIUM,F,new,2
+chemical element,URANIUM,F,new,2
+chemical element,MAGNESIUM,F,new,2
+bird,EAGLE,R,old,1
+bird,HUMMINGBIRD,R,old,1
+bird,BLUEJAY,R,old,1
+bird,HAWK,R,old,1
+bird,OSTRICH,R,old,1
+bird,DUCK,R,old,1
+bird,RAVEN,R,new,2
+bird,DOVE,R,new,2
+bird,SPARROW,R,new,2
+nonalcoholic beverage,JUICE,R,old,1
+nonalcoholic beverage,MILK,R,old,1
+nonalcoholic beverage,WATER,R,old,1
+nonalcoholic beverage,COFFEE,R,old,1
+nonalcoholic beverage,POP,R,old,1
+nonalcoholic beverage,LEMONADE,R,old,1
+nonalcoholic beverage,SODA,R,new,2
+nonalcoholic beverage,TEA,R,new,2
+nonalcoholic beverage,COKE,R,new,2
+type of dance,BALLET,R,old,1
+type of dance,TANGO,R,old,1
+type of dance,BALLROOM,R,old,1
+type of dance,SWING,R,old,1
+type of dance,SALSA,R,old,1
+type of dance,JAZZ,R,old,1
+type of dance,WALTZ,R,new,2
+type of dance,FOXTROT,R,new,2
+type of dance,MAMBO,R,new,2
+footware,SANDALS,R,old,1
+footware,BOOTS,R,old,1
+footware,MOCCASINS,R,old,1
+footware,HEELS,R,old,1
+footware,FLIPFLOPS,R,old,1
+footware,CLOGS,R,old,1
+footware,CLEATS,R,new,2
+footware,LOAFERS,R,new,2
+footware,SLIPPERS,R,new,2
+type of boat,YACHT,R,old,1
+type of boat,KAYAK,R,old,1
+type of boat,CANOE,R,old,1
+type of boat,SUBMARINE,R,old,1
+type of boat,TITANIC,R,old,1
+type of boat,CARGO,R,old,1
+type of boat,BATTLESHIP,R,new,2
+type of boat,RAFT,R,new,2
+type of boat,FERRY,R,new,2
+football position,QUARTERBACK,R,old,1
+football position,LINEMAN,R,old,1
+football position,RECEIVER,R,old,1
+football position,GUARD,R,old,1
+football position,TACKLE,R,old,1
+football position,OFFENSE,R,old,1
+football position,DEFENSE,R,new,2
+football position,CENTER,R,new,2
+football position,CORNERBACK,R,new,2
+metal,STEEL,New,new,2
+metal,IRON,New,new,2
+metal,SILVER,New,new,2
+military title,LIEUTENANT,New,new,2
+military title,PRIVATE,New,new,2
+military title,OFFICER,New,new,2
+type of fabric,COTTON,New,new,2
+type of fabric,WOOL,New,new,2
+type of fabric,DENIM,New,new,2
+fruit,ORANGE,New,new,2
+fruit,PEACH,New,new,2
+fruit,RASPBERRY,New,new,2
+natural earth formation,MOUNTAIN,New,new,2
+natural earth formation,OCEAN,New,new,2
+natural earth formation,VOLCANO,New,new,2
+weather phenomenon,TORNADO,New,new,2
+weather phenomenon,RAIN,New,new,2
+weather phenomenon,SNOW,New,new,2
+article of clothing,SHIRT,New,new,2
+article of clothing,PANTS,New,new,2
+article of clothing,SKIRT,New,new,2
+musical instrument,PIANO,New,new,2
+musical instrument,VIOLIN,New,new,2
+musical instrument,GUITAR,New,new,2
+vegetable,CARROT,New,new,2
+vegetable,CAULIFLOWER,New,new,2
+vegetable,SPINACH,New,new,2
+insect,FLY,New,new,2
+insect,ANT,New,new,2
+insect,MOTH,New,new,2
+fish,TROUT,New,new,2
+fish,HALIBUT,New,new,2
+fish,PERCH,New,new,2
+state,TEXAS,New,new,2
+state,VERMONT,New,new,2
+state,LOUISIANA,New,new,2
